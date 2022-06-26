@@ -1,8 +1,6 @@
 # 💫About Me :
-I am a Full-stack developer experienced in cross-platform web App development, and REST API development.
-My experience with UX/UI design helps me understand your business and provide a better solution for your web application.
-I am self-motivated, curious about new technologies, and have kept learning my whole life.
-I am passionate to combine the art of design with the art of programming providing a solution to real-world problems.
+I have a fervent passion for solving problems, and I am a quick learner who is always looking to improve my skills. 
+I have a deep understanding of both software engineering fundamentals and the latest trends in the industry, and I am eager to use my skills to help solve the challenges facing businesses today.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/warren-chen-a9187120b) 
