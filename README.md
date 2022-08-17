@@ -2,7 +2,7 @@
 I have a fervent passion for solving problems, and I am a quick learner who is always looking to improve my skills. 
 I have a deep understanding of both software engineering fundamentals and the latest trends in the industry, and I am eager to use my skills to help solve the challenges facing businesses today.
 
-## Portfolia
+## 👤Portfolia
 [Warren Chen](https://wchen.im/)
 
 ## 🌐Socials
