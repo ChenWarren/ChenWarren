@@ -31,8 +31,5 @@ I have a deep understanding of both software engineering fundamentals and the la
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ChenWarren&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ChenWarren&icon=0&color=1)](https://visitcount.itsvg.in)
