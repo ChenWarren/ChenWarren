@@ -5,6 +5,9 @@ I have a deep understanding of both software engineering fundamentals and the la
 ## 👤Portfolio
 👉[ wchen.im ](https://wchen.im/)😀😀
 
+## Blog
+👉[ clilog.net ](https://clilog.net/)😀😀
+
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/warren-chen-a9187120b) 
 
