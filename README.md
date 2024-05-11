@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">## 👤Portfolio<br>👉[ wchen.im ](https://wchen.im/)😀😀<br><br>## Blog<br>👉[ clilog.net ](https://clilog.net/)😀😀</p>
+## 👤Portfolio<br>👉[ wchen.im ](https://wchen.im/)😀😀<br><br>## Blog<br>👉[ clilog.net ](https://clilog.net/)😀😀
 
 ###
 
@@ -130,6 +130,6 @@
 
 ###
 
-<p align="left">[![](https://visitcount.itsvg.in/api?id=ChenWarren&icon=0&color=1)](https://visitcount.itsvg.in)</p>
+[![](https://visitcount.itsvg.in/api?id=ChenWarren&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ###
