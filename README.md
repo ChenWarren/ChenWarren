@@ -21,9 +21,6 @@
 <p align="left">
 👤Portfolio<br>👉[ wchen.im ](https://wchen.im/)😀😀
 </p>
-<p align="left">
-Blog<br>👉[ clilog.net ](https://clilog.net/)😀😀
-</p>
 
 ###
 
