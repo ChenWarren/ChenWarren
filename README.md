@@ -101,16 +101,6 @@ Blog<br>👉[ clilog.net ](https://clilog.net/) 😀😀
 
 ###
 
-<h3 align="left">CMS</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-</div>
-
-###
-
 <h3 align="left">Design</h3>
 
 ###
