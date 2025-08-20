@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey, What's up?</h1>
 
 ###
 
@@ -19,11 +19,11 @@
 ###
 
 <p align="left">
-👤Portfolio<br>👉[ wchen.im ](https://wchen.im/) 😀😀
+👤Portfolio<br>[ wchen.im ](https://wchen.im/)
 </p>
 
 <p align="left">
-Blog<br>👉[ clilog.net ](https://clilog.net/) 😀😀
+Blog<br>[ clilog.net ](https://clilog.net/)
 </p>
 
 ###
