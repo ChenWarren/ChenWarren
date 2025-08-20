@@ -1,40 +1,21 @@
-<h1 align="left">Hey, What's up?</h1>
+# Hey, What's up?
 
-###
+### My name is Warren. 
+I am A Full Stack Developer based on Vancouver, BC.
 
-<p align="left">My name is Warren. <br>A Full Stack Developer based on Vancouver, BC.</p>
+## About me
 
-###
+I'm a passionate full-stack web developer driven to leverage my expertise in tackling real-world challenges. Collaboration is key for me, and I thrive in environments that foster teamwork and creativity. Always eager to learn and grow, I aim to contribute to the future of web development through innovative solutions.
 
-<h2 align="left">About me</h2>
+## Websites
 
-###
+#### Portfolio: [wchen.im](https://wchen.im)
 
-<p align="left">I'm a passionate full-stack web developer driven to leverage my expertise in tackling real-world challenges. Collaboration is key for me, and I thrive in environments that foster teamwork and creativity. Always eager to learn and grow, I aim to contribute to the future of web development through innovative solutions.</p>
+#### Blog: [clilog.net](https://clilog.net)
 
-###
 
-<h2 align="left">Websites</h2>
-
-###
-
-<p align="left">
-👤Portfolio<br>[ wchen.im ](https://wchen.im/)
-</p>
-
-<p align="left">
-Blog<br>[ clilog.net ](https://clilog.net/)
-</p>
-
-###
-
-<h2 align="left">Tech Stack:</h2>
-
-###
-
-<h3 align="left">Languages</h3>
-
-###
+## Tech Stack:
+### Languages
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -46,11 +27,7 @@ Blog<br>[ clilog.net ](https://clilog.net/)
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
 </div>
 
-###
-
-<h3 align="left">Front-end</h3>
-
-###
+### Front-end
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
@@ -65,11 +42,7 @@ Blog<br>[ clilog.net ](https://clilog.net/)
   <img width="12" />
 </div>
 
-###
-
-<h3 align="left">Back-end</h3>
-
-###
+### Back-end
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
@@ -83,11 +56,7 @@ Blog<br>[ clilog.net ](https://clilog.net/)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
-###
-
-<h3 align="left">Database</h3>
-
-###
+### Database
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
@@ -99,4 +68,3 @@ Blog<br>[ clilog.net ](https://clilog.net/)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
 
-###
