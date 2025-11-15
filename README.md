@@ -1,11 +1,7 @@
 # Hey, What's up?
 
 ### My name is Warren. 
-I am A Full Stack Developer based on Vancouver, BC.
-
-## About me
-
-I'm a passionate software engineer driven to leverage my expertise in tackling real-world challenges. Collaboration is key for me, and I thrive in environments that foster teamwork and creativity. Always eager to learn and grow, I aim to contribute to the future of web development through innovative solutions.
+I am A Software Engineer based on Vancouver, BC.
 
 ## Websites
 
