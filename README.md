@@ -1,7 +1,7 @@
 # Hey, What's up?
 
 ### My name is Warren. 
-I am A Software Engineer based on Vancouver, BC.
+I am A Software Engineer.
 
 ## Websites
 
